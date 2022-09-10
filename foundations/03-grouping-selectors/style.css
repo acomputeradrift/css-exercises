@@ -1,0 +1,28 @@
+/* styles.css */
+
+.pageBackground {
+    display: flex;
+    background-color:black;
+ 
+
+}
+
+.flex-container {
+
+   margin: 0 auto;
+    background-color: white;
+}
+
+.fontSize40 {
+    font-size: 40px;
+    margin:10px;
+}
+
+.clickMe {
+    color:white;
+    background-color: black;
+}
+
+.noClickMe {
+    background-color:yellow;
+}
