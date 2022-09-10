@@ -1,21 +1,8 @@
 /* styles.css */
 
-.pageBackground {
-    display: flex;
-    background-color:black;
- 
-
-}
-
-.flex-container {
-
-   margin: 0 auto;
-    background-color: white;
-}
-
-.fontSize40 {
+.clickMe, .noClickMe {
+    font-family: Helvetica, "Times New Roman", sans-serif;
     font-size: 40px;
-    margin:10px;
 }
 
 .clickMe {
