@@ -1,0 +1,27 @@
+/* styles.css */
+
+.numberOne {
+    background-color: pink;
+    font-size: 25px;
+}
+
+#numberTwo {
+    color: blue;
+    font-size: 40px;
+}
+
+.numberThree {
+    background-color: pink;
+    font-size: 35px;
+}
+
+#numberFour {
+    background-color: lightgreen;
+    font-size: 40px;
+    font-style: bold;
+}
+
+.numberFive {
+    background-color: pink;
+    font-size: 25px;
+}
